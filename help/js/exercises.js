@@ -100,6 +100,6 @@ var exercises = {
 	},
 	"9-3": {
 		answer: "<ol>\n<li>\n<p>Ingredients</p>\n<ul>\n<li>spaghetti</li>\n<li>marinara sauce</li>\n<li>salt</li>\n</ul>\n</li>\n<li>\n<p>Cooking</p>\n<p>Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is <strong>tender</strong>.</p>\n</li>\n<li>\n<p>Serve</p>\n<p>Drain the pasta on a plate. Add heated sauce.</p>\n<blockquote>\n<p>No man is lonely eating spaghetti; it requires so much attention.</p>\n</blockquote>\n<p>Bon appetit!</p>\n</li>\n</ol>",
-		correctMd: "1. Ingredients\n\n    - spaghetti\n    - marinara sauce\n    - salt\n\n2. Cooking\n\n   Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is **tender**.\n\n3. Serve\n\n   Drain the pasta on a plate. Add heated sauce. \n\n   > No man is lonely eating spaghetti; it requires so much attention.\n\n   Bon appetit!"
+		correctMd: "1. Ingredients\n\n    - spaghetti\n    - marinara sauce\n    - salt\n\n2. Cooking\n\n   Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is **tender**.\n\n3. Serve\n\n   Drain the pasta on a plate. Add heated sauce. \n\n   > No man is lonely eating spaghetti; it requires so much attention.\n\nBon appetit!"
 	}
 };
